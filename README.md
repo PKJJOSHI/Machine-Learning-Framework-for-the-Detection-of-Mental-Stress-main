@@ -76,9 +76,9 @@ The emotion recognition model achieves **~78% accuracy** across multiple emotion
 
 ## 📬 Contact
 
-**Developer**: Prince K. Joshi  
-**LinkedIn**: [YourLinkedInLink]  
-**GitHub**: [https://github.com/your-username](https://github.com/your-username)
+**Developer**: Prashant K. Joshi  
+**LinkedIn**: [https://www.linkedin.com/in/prashantjoshi2220]  
+**GitHub**: [https://github.com/PKJJOSHI)
 
 ---
 
