@@ -1,0 +1,5 @@
+Flask
+opencv-python
+tensorflow
+keras
+streamlit-webrtc
