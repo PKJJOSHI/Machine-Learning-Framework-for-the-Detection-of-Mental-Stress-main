@@ -1,3 +1,4 @@
+![Mental Stress Detection Banner](static/banner.png)
 # 🧠 Machine Learning Framework for the Detection of Mental Stress
 
 This project presents a real-time Face Emotion Recognition (FER) system designed to detect mental stress during digital learning sessions. Using a deep Convolutional Neural Network (CNN), the application analyzes facial expressions via webcam to determine stress levels and support mental well-being monitoring.
