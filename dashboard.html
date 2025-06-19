@@ -1,0 +1,45 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Stress Detection System</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+     <header class="bg-blue-600 text-white p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold"><a href="/dashboard" class="hover:underline">Stress levels and emotions will be displayed here</a></h1>
+
+            <nav>
+                <ul class="flex space-x-4">
+                    <li><a href="/index" class="hover:underline">Home</a></li>
+                    <li><a href="#" class="hover:underline">Detection</a></li>
+
+                </ul>
+            </nav>
+        </div>
+    </header>
+</head>
+<body class="bg-gray-100">
+<body>
+        <div style="display: flex; justify-content: space-around;">
+            <img src="data:image/png;base64,{{ plot_url_stress }}" alt="Live Stress Level Graph" style="max-width: 45%;">
+            <img src="data:image/png;base64,{{ plot_url_emotions }}" alt="Facial Emotion Counts Graph" style="max-width: 45%;">
+        </div>
+        <div class="bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-4 mt-4" role="alert">
+            <p class="font-bold">Precautions:</p>
+            <ul>
+                <li>Ensure to take regular breaks while using the system.</li>
+                <li>Consult a mental health professional if stress levels are consistently high.</li>
+                <li>Use the insights from this system to foster positive mental health practices.</li>
+            </ul>
+        </div>
+
+    </body>
+   
+</body>
+</html>
