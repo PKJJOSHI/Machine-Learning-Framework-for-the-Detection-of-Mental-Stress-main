@@ -1,5 +1,3 @@
-<h1 align="center">🧠 Mental Stress Detection</h1>
-<h3 align="center">🔍 Machine Learning Based System | 📈 Multi-level Stress Classification | 👨‍💻 Built with Python & ML</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxNjR4cWYzMHlkOG0zZmxvOHNpYjhhYjZ2M2pmbGNjZ3l6eDZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/giphy.gif" width="300" />
