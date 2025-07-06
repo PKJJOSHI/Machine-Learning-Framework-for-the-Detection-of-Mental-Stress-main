@@ -1,4 +1,4 @@
-![Mental Stress Detection Banner](static/banner.png)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/IddXDdaLrhFjY/giphy.gif" width="500"/>
